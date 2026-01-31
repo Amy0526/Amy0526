@@ -4,8 +4,14 @@ class: center, middle
 ### Product Manager · Data Analyst  
 
 Seattle, WA  
-📧 amy.lu.zhuang@gmail.com  
-📞 +1 818-555-5666  
+
+Email: amy.lu.zhuang@gmail.com 
+
+LinkedIn: https://www.linkedin.com/in/amy-lu-620a143a9/
+
+Phone number: +1 818-555-5666  
+
+CV: https://drive.google.com/file/d/1FEPzu3u_WJiTUoBN0l3AQqNUUrrHbd4u/view?usp=sharing
 
 ---
 
@@ -120,4 +126,4 @@ class: center, middle
 ### Let's Connect
 
 📧 amy.lu.zhuang@gmail.com  
-🌐 GitHub Portfolio Coming Soon
+
