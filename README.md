@@ -5,19 +5,16 @@ class: center, middle
 
 Seattle, WA  
 
-Email: amy.lu.zhuang@gmail.com 
-
-LinkedIn: https://www.linkedin.com/in/amy-lu-620a143a9/
-
-Phone number: +1 818-555-5666  
-
-CV: https://drive.google.com/file/d/1FEPzu3u_WJiTUoBN0l3AQqNUUrrHbd4u/view?usp=sharing
+Email: amy.lu.zhuang@gmail.com  
+LinkedIn: https://www.linkedin.com/in/amy-lu-620a143a9  
+Tele: +1 818-555-5666  
+CV: https://drive.google.com/file/d/1FEPzu3u_WJiTUoBN0l3AQqNUUrrHbd4u/view  
 
 ---
 
 # Education
 
-## University of Washington – Seattle  
+## University of Washington — Seattle  
 **B.S. in Informatics**  
 Expected Graduation: **June 2026**  
 **GPA: 3.9 / 4.0**
@@ -30,8 +27,8 @@ Expected Graduation: **June 2026**
 - Machine Learning  
 
 ### Leadership
-- Vice President, UW Life & Science Student Association  
-- Career Development Member, UWCSSA  
+- **Vice President**, UW Life & Science Student Association  
+- **Career Development Committee**, UWCSSA  
 
 ---
 
@@ -41,22 +38,22 @@ Expected Graduation: **June 2026**
 **Product Manager / Data Analyst Intern**  
 *Jun 2025 – Sep 2025*
 
-- Designed campus security **attendance analytics dashboard** with real-time visualization and reporting  
-- Built **broadband management system UI/UX** from scratch covering communities, plans, and ticket tracking  
-- Conducted user interviews to improve admin and tenant workflows  
-- Automated billing validation using **SQL stored procedures**  
-- Developed anomaly detection logic for duplicate charges and pricing errors  
+- Led design of a **campus security attendance analytics dashboard**, enabling real-time monitoring and reporting  
+- Built end-to-end **broadband management system UI/UX**, covering community accounts, service plans, and ticket workflows  
+- Conducted stakeholder interviews to optimize admin and tenant user journeys  
+- Automated billing validation via **SQL stored procedures**, reducing manual auditing workload  
+- Developed anomaly-detection logic identifying duplicate charges and pricing discrepancies  
 
 ---
 
 # Data Project
 
-## Olympic Medals & Economic Indicators
+## Olympic Medals & Economic Indicators Dashboard
 
-- Built responsive web app using **R and Shiny**  
-- Visualized GDP vs Olympic medals across countries  
-- Designed custom **ETL pipeline** improving processing speed by **35%**  
-- Created interactive charts using **ggplot2, dplyr, Plotly**  
+- Developed responsive data app using **R Shiny**  
+- Analyzed correlation between **GDP and Olympic medal counts** across countries  
+- Engineered custom **ETL pipeline**, improving processing efficiency by **35%**  
+- Built interactive visualizations with **ggplot2, dplyr, Plotly**  
 
 ---
 
@@ -64,10 +61,10 @@ Expected Graduation: **June 2026**
 
 ## Elderly-Friendly Mobile App Design
 
-- Designed **WCAG-compliant** mobile prototypes  
-- Supported iOS and Android platforms  
-- Built high-fidelity Figma prototypes  
-- Conducted usability testing to optimize interaction flow  
+- Designed **WCAG-compliant** accessibility-focused mobile experience  
+- Delivered cross-platform prototypes (iOS & Android)  
+- Produced high-fidelity **Figma** design system and interaction flows  
+- Conducted usability testing to refine navigation and readability  
 
 ---
 
@@ -75,10 +72,10 @@ Expected Graduation: **June 2026**
 
 ## Hotel Management Database System
 
-- Designed **3NF-compliant ER model**  
-- Ensured data normalization and integrity  
-- Wrote SQL scripts for efficient CRUD operations  
-- Visualized database architecture  
+- Designed **3NF-normalized ER data model**  
+- Ensured relational integrity and scalable schema structure  
+- Wrote optimized SQL scripts for CRUD operations  
+- Produced architecture diagrams and documentation  
 
 ---
 
@@ -86,10 +83,10 @@ Expected Graduation: **June 2026**
 
 ## Global University Course Registration Platform
 
-- Rebuilt system using **RESTful API + Microservices**  
+- Architected platform using **RESTful APIs + Microservices**  
 - Reduced server response time by **45%**  
 - Improved enrollment workflow efficiency by **30%**  
-- Designed management dashboards and end-to-end workflows  
+- Designed administrative dashboards and registration pipelines  
 
 ---
 
@@ -97,33 +94,35 @@ Expected Graduation: **June 2026**
 
 ## UWCSSA — Career Development Department
 
-- Built university–industry communication channels  
-- Organized job workshops and employer info sessions  
-- Supported resume reviews and interview preparation  
-- Coordinated corporate partnerships and guest lectures  
+- Built partnerships between university and industry employers  
+- Organized career workshops and recruiting events  
+- Provided resume reviews and mock interview support  
+- Coordinated guest lectures and corporate outreach  
 
 ---
 
 # Skills
 
-## Programming & Tools
-- Java, SQL, R  
-- Figma, Sketch, MasterGo, Canva  
-- Microsoft Office Suite  
+## Programming & Data
+- Java · SQL · R  
+- ETL Pipelines · Data Modeling · Analytics  
 
-## Professional Skills
-- Data Analysis  
-- UI/UX Design  
-- Database Management  
-- Data Modeling  
+## Product & Design
+- Figma · Sketch · MasterGo · Canva  
+- UX Research · Prototyping · Usability Testing  
+
+## Professional
 - Product Management  
+- Data Analysis  
+- Dashboard Design  
+- Stakeholder Communication  
 
 ---
 
 class: center, middle
 
 # Thank You  
-### Let's Connect
+### Let’s Connect
 
 📧 amy.lu.zhuang@gmail.com  
-
+🔗 https://www.linkedin.com/in/amy-lu-620a143a9  
