@@ -8,7 +8,7 @@ Seattle, WA
 Email: amy.lu.zhuang@gmail.com  
 LinkedIn: https://www.linkedin.com/in/amy-lu-620a143a9  
 Tele: +1 818-555-5666  
-CV: https://drive.google.com/file/d/1FEPzu3u_WJiTUoBN0l3AQqNUUrrHbd4u/view  
+CV: https://docs.google.com/document/d/1EolnvDzF5CQwfhGMgfYfgmKIIjDzSQ_Gmet8eFIIBH0/edit?usp=sharing 
 
 ---
 
