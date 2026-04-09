@@ -99,6 +99,11 @@ Expected Graduation: **June 2026**
 - Provided resume reviews and mock interview support  
 - Coordinated guest lectures and corporate outreach  
 
+## CHOP Smart Application
+- Designed and developed a map-based mobile application that guides users through historical CHOP sites using GPS-triggered storytelling
+- Conceptualized core features including interactive route navigation, point-of-interest triggers, and user-friendly onboarding experience
+- Built a functional prototype using React, implementing dynamic map interactions and responsive UI components for an intuitive user experience
+
 ---
 
 # Skills
